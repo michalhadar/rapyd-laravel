@@ -20,10 +20,10 @@
                          {!! $filter->field('src') !!}
                           <span class="input-group-btn">
                               <button class="btn btn-default" type="submit">
-                                  <span class="glyphicon glyphicon-search"></span>
+                                  <span class="fas fa-search"></span>
                               </button>
                               <a href="/rapyd-demo/customfilter" class="btn btn-default">
-                                 <span class="glyphicon glyphicon-remove"></span>
+                                 <span class="fas fa-times"></span>
                               </a>
                          </span>
 
